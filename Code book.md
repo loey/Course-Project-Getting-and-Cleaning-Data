@@ -7,4 +7,5 @@ Each observation (each row) is either an activity or a subject. The first 6 obse
 * sitting
 * standing
 * laying
+* 
 After this, the 30 subjects, from number 1 to 30, is the following 30 rows.
